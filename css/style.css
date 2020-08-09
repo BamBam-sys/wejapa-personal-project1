@@ -1,0 +1,62 @@
+
+/* for some reason is been overriden  */
+/* body{
+  background-color: #87d4c5;
+} */
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+}
+
+.brand{
+  font-family: 'Rosarivo', serif;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+  background-color: #87d4c5;
+}
+
+.header {
+  padding-top: 20px;
+  font-family: 'Rosarivo', serif;
+  text-align: center;
+  margin-bottom: 3.5rem;
+}
+
+.intro {
+  font-family: 'Niconne', cursive;
+  font-size: 30px;
+  text-align: left;
+  line-height: 2;
+  margin-top: 25%;
+}
+
+.quotes {
+  padding: 3% 15%;
+}
+
+.fquotes {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 3.5rem;
+}
+
+.bio{
+  margin-top: 3rem;
+}
+
+.random{
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+}
+
+h3{
+  font-family: 'Rosarivo', serif;
+
+}
+.rquotes{
+  font-size: 30px;
+  margin-top: 50px;
+}
